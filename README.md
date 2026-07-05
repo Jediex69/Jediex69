@@ -1,92 +1,86 @@
+<p align="center">
+  <img src="assets/banner-github.png" alt="Banner Jesús Díaz - Cybersecurity" width="100%">
+</p>
+
 # 👋 Hola, soy Jesús Díaz
 
-### Junior Cybersecurity Analyst | SOC L1 | Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+### Junior Cybersecurity Analyst | SOC L1 | Técnico Superior en Desarrollo de Aplicaciones Web
 
-Soy un profesional en transición hacia el sector IT con más de **18 años de experiencia en soporte técnico, atención al cliente, backoffice y resolución de incidencias** dentro del entorno de Telefónica/Movistar.
-
-Tras finalizar el **CFGS de Desarrollo de Aplicaciones Web (DAW)**, decidí orientar mi carrera hacia la **ciberseguridad**, especializándome en análisis de vulnerabilidades, laboratorios prácticos y operaciones de seguridad (SOC).
-
-Actualmente busco mi primera oportunidad como **Analista SOC L1**, **Técnico de Soporte IT** o **Junior Cybersecurity Analyst**, donde pueda seguir aprendiendo y aportar una sólida capacidad analítica, experiencia en troubleshooting y una gran motivación por continuar creciendo profesionalmente.
+Profesional en transición hacia el sector IT con más de **18 años de experiencia** en soporte técnico, atención al cliente, backoffice y resolución de incidencias.
 
 ---
 
-# 🛡️ Certificaciones y formación
+## 🛡️ Certificaciones y formación
 
-* ✅ Cisco **CCST Cybersecurity**
-* ✅ Google **Cybersecurity Professional Certificate**
-* ✅ Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
-* ✅ Bootcamp de Ciberseguridad Ofensiva (Red Team)
-
----
-
-# 💻 Tecnologías
-
-## Ciberseguridad
-
-* Wireshark
-* Nmap
-* Burp Suite
-* Metasploit Framework
-* Kali Linux
-* OWASP Top 10
-* MITRE ATT&CK
-* Linux
-* Windows Server
-
-## Desarrollo
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-* PHP
-* Laravel
-* Python
-* SQL
-* Git & GitHub
+| Certificación | Estado |
+|---|---|
+| Cisco CCST Cybersecurity | ✅ Completado |
+| Google Cybersecurity Professional Certificate | ✅ Completado |
+| CFGS Desarrollo de Aplicaciones Web | ✅ Finalizado |
+| Bootcamp Ciberseguridad Ofensiva | ✅ Finalizado |
 
 ---
 
-# 📂 Repositorios destacados
+## 💻 Tecnologías
 
-## 🛡️ SOC-L1-Labs
+### Ciberseguridad
 
-Laboratorios orientados al trabajo diario de un Analista SOC, incluyendo análisis de logs, captura de tráfico, automatización y ejercicios prácticos de ciberseguridad.
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white)
 
----
+### Desarrollo
 
-## 🔐 Ciberseguridad y Hacking Ético
-
-Colección de laboratorios, CTFs, informes técnicos y documentación desarrollada durante mi formación en ciberseguridad.
-
----
-
-## 💻 Proyectos DAW
-
-Proyectos desarrollados durante el Ciclo Formativo de Desarrollo de Aplicaciones Web, utilizando diferentes tecnologías y arquitecturas.
-
----
-
-## ⚛️ Proyectos React
-
-Aplicaciones desarrolladas con React para consolidar conocimientos sobre componentes, estado, hooks y desarrollo frontend.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
-# 🌱 Actualmente
+## 📂 Repositorios destacados
 
-* 📚 Preparando la certificación **CompTIA Security+**
-* 🐍 Profundizando en Python para automatización
-* 🛡️ Construyendo nuevos laboratorios orientados a SOC L1
-* 🚀 Buscando una oportunidad profesional en ciberseguridad o soporte IT
+| Proyecto | Descripción |
+|---|---|
+| [SOC-L1-Labs](https://github.com/Jediex69/SOC-L1-labs) | Laboratorios orientados a SOC L1, análisis de logs, tráfico de red y automatización. |
+| [Ciberseguridad_y_hacking_etico](https://github.com/Jediex69/Ciberseguridad_y_hacking_etico) | CTFs, auditorías, informes técnicos y laboratorios de seguridad. |
+| [Proyectos_DAW](https://github.com/Jediex69/Proyectos_DAW) | Proyectos desarrollados durante el CFGS DAW. |
+| [Proyectos_React](https://github.com/Jediex69/Proyectos_React) | Aplicaciones React para practicar frontend moderno. |
 
 ---
 
-# 📫 Contacto
+## 🌱 Actualmente
 
-* 💼 LinkedIn: [www.linkedin.com/in/jesus-diaz-exposito](http://www.linkedin.com/in/jesus-diaz-exposito)
-* 🌐 Portfolio: https://jediex69.github.io
-* 📧 Email: [jediex69@gmail.com](mailto:jediex69@gmail.com)
+- 📚 Preparando **CompTIA Security+**
+- 🐍 Profundizando en **Python para automatización**
+- 🛡️ Construyendo laboratorios orientados a **SOC L1**
+- 🚀 Buscando oportunidades en **ciberseguridad junior / soporte IT**
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jediex69&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jediex69&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jesus-diaz-exposito
+- 🌐 Portfolio: https://jediex69.github.io
+- 📧 Email: jediex69@gmail.com
 
 ---
 
