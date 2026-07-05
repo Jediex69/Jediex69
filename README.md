@@ -1,60 +1,34 @@
-# 👋 Hola, soy Jesús Díaz Expósito
+# 👋 Hola, soy Jesús Díaz
 
-**Junior Cybersecurity Analyst | SOC L1 | Red Team Trainee | DAW**
+🎯 Junior Cybersecurity Analyst | SOC L1 | CCST Cybersecurity Certified | DAW
 
-Actualmente en transición profesional hacia el sector de la ciberseguridad, combinando mi formación técnica (CFGS DAW + Bootcamp Red Team) con más de **18 años de experiencia en soporte técnico y resolución de incidencias** en entornos corporativos (Telefónica).
+Profesional en transición hacia ciberseguridad, con +18 años de experiencia en soporte técnico, backoffice, resolución de incidencias y atención a clientes en entorno Telefónica/Movistar.
 
-Me especializo en:
+Actualmente enfocado en Blue Team / SOC L1, análisis de vulnerabilidades, documentación técnica, automatización básica con Python y laboratorios de ciberseguridad ofensiva en entornos controlados.
 
-- 🔍 Análisis de vulnerabilidades  
-- 🛡️ Fundamentos de Blue Team / SOC L1  
-- 🧪 Pruebas de penetración en entornos controlados  
-- 📡 Reconocimiento, escaneo y enumeración  
-- 🧩 Análisis de tráfico con Wireshark  
-- 🐚 Automatización básica con Bash y Python  
+## 🛡️ Ciberseguridad
+- CCST Cybersecurity Certified — Cisco
+- Google Cybersecurity Professional Certificate
+- Bootcamp Red Team / Ciberseguridad ofensiva
+- Análisis de vulnerabilidades
+- Nmap, Wireshark, Burp Suite, Metasploit, Kali Linux
+- OWASP Top 10, MITRE ATT&CK, Linux hardening
 
-Mi objetivo es crecer como **Analista SOC L1 / Blue Team**, aplicando mi experiencia real en troubleshooting y mi formación ofensiva para comprender mejor el ciclo de ataque.
+## 💻 Desarrollo Web
+- CFGS Desarrollo de Aplicaciones Web finalizado
+- HTML, CSS, JavaScript, React, PHP, Laravel, SQL
+- Proyecto final: PassKeeper, gestor de contraseñas seguro
 
----
-
-## 🔐 Repositorios destacados
-
-### 🛡️ Ciberseguridad y Hacking Ético  
-Repositorio con writeups, CTFs, ejercicios prácticos y laboratorios del bootcamp Red Team.  
-➡️ https://github.com/Jediex69/Ciberseguridad_y_hacking_etico
-
-Incluye:
-- Informes de retos CTF  
-- Escaneo y enumeración (Nmap)  
-- Análisis de tráfico (Wireshark)  
-- Explotación básica (Metasploit)  
-- Pruebas OWASP Top 10  
-- Hardening de sistemas Linux
-
-### 🧪 Scripts y utilidades (próximamente)  
-Pequeños scripts en Bash/Python para automatizar tareas de análisis, escaneo y parsing de logs.
-
-### 🌐 Desarrollo Web (DAW)  
-Proyectos de prácticas con MERN, Laravel y WordPress.  
-(En proceso de subida)
-
----
-
-## 🧰 Tecnologías y herramientas
-
-**Ciberseguridad:** Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, OWASP Top 10, MITRE ATT&CK  
-**Desarrollo:** HTML, CSS, JavaScript, React, PHP, Laravel, Java, Python, WordPress, Elementor, Divi, Bootstrap
-**Sistemas y datos:** Linux, MySQL, Oracle, MongoDB, Docker, Git/GitHub  
-
----
+## 📌 Repositorios destacados
+- Ciberseguridad y Hacking Ético
+- Proyectos DAW
+- Portfolio personal
+- Scripts Python/Bash para automatización
 
 ## 🎯 Objetivo profesional
-
-Seguir desarrollándome como **Analista SOC L1**, aportando mi experiencia en soporte técnico, mi capacidad de análisis y mi formación en ciberseguridad ofensiva y defensiva.
-
----
+Incorporarme como Analista SOC L1, Técnico de Soporte IT/N1 o perfil junior de ciberseguridad, aportando experiencia real en troubleshooting, documentación, análisis y atención a incidencias.
 
 ## 📫 Contacto
-
 - LinkedIn: https://www.linkedin.com/in/jesus-diaz-exposito/
-- Email: jediex69@gmail.com  
+- Email: jediex69@gmail.com
+
