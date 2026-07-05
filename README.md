@@ -64,15 +64,14 @@ Profesional en transición hacia el sector IT con más de **18 años de experien
 
 ---
 
-## 📊 Estadísticas
+## 🎯 Objetivos 2026
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jediex69&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jediex69&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+✅ CCST Cybersecurity
+✅ DAW finalizado
+🔄 Preparando CompTIA Security+
+🔄 Construyendo SOC-L1 Labs
+🔄 Automatización con Python
+🎯 Primer puesto como SOC L1
 
 ---
 
