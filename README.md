@@ -66,12 +66,12 @@ Profesional en transición hacia el sector IT con más de **18 años de experien
 
 ## 🎯 Objetivos 2026
 
-✅ CCST Cybersecurity
-✅ DAW finalizado
-🔄 Preparando CompTIA Security+
-🔄 Construyendo SOC-L1 Labs
-🔄 Automatización con Python
-🎯 Primer puesto como SOC L1
+- ✅ CCST Cybersecurity
+- ✅ DAW finalizado
+- 🔄 Preparando CompTIA Security+
+- 🔄 Construyendo SOC-L1 Labs
+- 🔄 Automatización con Python
+- 🎯 Primer puesto como SOC L1
 
 ---
 
