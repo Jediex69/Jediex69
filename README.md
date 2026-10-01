@@ -49,7 +49,7 @@ Profesional en transición hacia el sector IT con más de **18 años de experien
 | Proyecto | Descripción |
 |---|---|
 | [PassKeeper](https://github.com/Jediex69/PassKeeper) | 🔐 Gestor seguro de contraseñas desarrollado con **PHP 8.2**, **MySQL** y arquitectura **MVC**, con cifrado **AES-256-CTR**, autenticación segura y panel de administración. |
-| [Wazuh-SOC-Lab](https://github.com/Jediex69/Wazuh-SOC-Lab | Laboratorio práctico de SOC centrado en monitorización SIEM, investigación de alertas y seguridad de endpoints. |
+| [Wazuh-SOC-Lab](https://github.com/Jediex69/Wazuh-SOC-Lab) | Laboratorio práctico de SOC centrado en monitorización SIEM, investigación de alertas y seguridad de endpoints. |
 | [SOC-L1-Labs](https://github.com/Jediex69/SOC-L1-labs) | Laboratorios orientados a SOC L1, análisis de logs, tráfico de red y automatización. |
 | [Ciberseguridad_y_hacking_etico](https://github.com/Jediex69/Ciberseguridad_y_hacking_etico) | CTFs, auditorías, informes técnicos y laboratorios de seguridad. |
 | [Proyectos_DAW](https://github.com/Jediex69/Proyectos_DAW) | Proyectos desarrollados durante el CFGS DAW. |
